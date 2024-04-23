@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureFunctions_Using_Odata_Query": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7001",
+      "launchBrowser": false
+    }
+  }
+}
